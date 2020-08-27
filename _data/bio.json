@@ -1,57 +1,45 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jake Bucher",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://jakebucher.github.io/images/picprofile.jpeg",
+    "email": "jbucher01@aurora.edu",
+    "phone": "516-439-6338",
+    "website": "https://jakebucher.github.io",
+    "summary": "I am studying for a B.S. in Computer Science and a Minor in Homeland Security & Mathematics at Aurora University. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "20 Globemaster Ave",
+      "postalCode": "28307",
+      "city": "Fort Bragg",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "North Carolina"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "JakeBucher",
+        "url": "http://github.com/jakebucher"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Jake Bucher",
+        "url": "https://www.linkedin.com/in/jake-bucher-571010172/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Java",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Homeland Security",
       "keywords": [
       ]
     }
