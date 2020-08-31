@@ -49,32 +49,31 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "Computer Architecture",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript & JavaFX script",
+        "Web Development",
+        "Python"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolset",
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Eclipse",
+        "Unix/Linux"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Aurora University, Aurora, IL",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -83,27 +82,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Creative Consultance",
+      "position": "Caretaker",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-05-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Provided care for Adults with disabilities",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provide transportation for Clients to work, recreational activities, and to stores where they can purchase necessities",
+        "Clean and Cook meals for the Clients while being mindful of food allergies "
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "CRU Umpire INC",
+      "position": "CRU Umpire",
+      "website": "",
+      "startDate": "2017-06-01",
+      "endDate": "2018-07-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Ensured the safety of the athletes and fans by being in charge of crowd control ",
+        "Communicated with coaches and coworkers in order to ensure that the game is played correctly "
       ]
     }
   ],
@@ -120,33 +119,6 @@
         "Maintain custom data collection and storage infrastructure"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
