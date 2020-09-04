@@ -14,7 +14,7 @@ labels:
 summary: A javascript of calculating a Theature Revenue from a nights of work that I worked on in my CSC1700 class.
 ---
 
-<img class="ui right floated rounded image" src="../images/GithubProject.png" style="width:1200px;height:1200px;">
+<img class="ui right floated rounded image" src="../images/GithubProject.png" style="width:1200px;height:1000px;">
 
 I used javascript on eclipse to produce this project.
 
