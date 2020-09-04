@@ -24,7 +24,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class bucher_Theater extends JFrame{
+public class Theater extends JFrame{
 	
 	final double percent = .20;
     double adultCost;
@@ -36,7 +36,7 @@ public class bucher_Theater extends JFrame{
     private final int WINDOW_WIDTH = 600;
     private final int WINDOW_HEIGHT = 400;
     
-    public bucher_Theater() {
+    public Theater() {
     	setTitle("Theater Revenue");
         setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -113,7 +113,7 @@ public class bucher_Theater extends JFrame{
     }
     
     public static void main(String[] args) {
-    	bucher_Theater theatre = new bucher_Theater();
+    	Theater theatre = new Theater();
 	}
 
 }
