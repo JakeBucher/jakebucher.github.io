@@ -2,16 +2,16 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Theature Revenue
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-09-03
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
+  - Java
+  - JFrame
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A javascript of calculating a Theature Revenue from a nights of work that I worked on in my CSC1700 class.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
